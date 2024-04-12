@@ -42,5 +42,6 @@ export class DetalhesProdutoComponent implements OnInit  {
     }
     this.carrinhoService.adicionarAoCarrinho(produto);
   }
+
   
 }

@@ -16,6 +16,7 @@
 
 .product__name {
     font-size: 36px;
+    color: var(--blue);
 }
 
 .product__price {
