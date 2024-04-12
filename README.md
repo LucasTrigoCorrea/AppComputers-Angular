@@ -1,5 +1,5 @@
 # ProwayComputers
-LINK: https://app-computers-angular.vercel.app/produtos
+LINK: https://app-computers-angular.vercel.app/produtos *PC only version
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0.
 
